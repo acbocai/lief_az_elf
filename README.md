@@ -1,5 +1,5 @@
 ## 功能：
-一键解析android elf到json（LIEF库调用示例）  
+一键解析android elf到json（LIEF库ELF完全调用示例）  
 
 ## 运行环境：
 win10 x64 1903  
