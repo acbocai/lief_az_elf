@@ -6,4 +6,4 @@ win10 x64 1903
 ida 7.0
 
 ## Example
-#### >lief_az_elf.exe libsm4.so libsm4.json
+#### >>>  lief_az_elf.exe libsm4.so libsm4.json  
