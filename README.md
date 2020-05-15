@@ -1,25 +1,17 @@
 ## 功能：
-一键解析android elf到json（LIEF库ELF完全调用示例）  
-  
-  
-  
-## 运行环境：
-win10 x64 1903  
-ida 7.0
-  
-  
-  
+一键解析android elf信息为json,简单的调用示例
+ 
+ 
 ## Example：  
+win10 x64 1903  
 #### >>>  lief_az_elf.exe libsm4.so libsm4.json  
-  
   
   
 ## 执行效果：
 ![](https://github.com/acbocai/lief_az_elf/blob/master/output.png)
   
   
-  
-## 注释：  
+## example：  
 ```python
 # 初始化
  bin = lief.parse(input__)
